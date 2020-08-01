@@ -14,6 +14,7 @@ end
 def long_planeteer_calls(array)
   array.any? do |word| #if any is TRUE
     word.length > 4 #wind and fire not gonna come up
+  end
 end
 
 def find_the_cheese(array)
