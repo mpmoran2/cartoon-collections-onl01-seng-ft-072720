@@ -22,3 +22,4 @@ def find_the_cheese(array)
     cheese == "cheddar" || cheese ==  "gouda"|| cheese == "camembert"
   #cheese_types = ["cheddar", "gouda", "camembert"]
 end
+end
