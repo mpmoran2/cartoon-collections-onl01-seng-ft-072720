@@ -19,7 +19,7 @@ end
 
 def find_the_cheese(array)
   array.find do |cheese| 
-    cheese == "cheddar" || cheese ==  "gouda"|| cheese == "camembert"
+    cheese == "cheddar" || cheese ==  "gouda"|| cheese == "camembert" #do the or
   #cheese_types = ["cheddar", "gouda", "camembert"]
 end
 end
